@@ -1,0 +1,9 @@
+C:\Users\danielmoresand\source\repos\sincoABR.API\SincoABR.Data\bin\Debug\netcoreapp2.2\SincoABR.Data.deps.json
+C:\Users\danielmoresand\source\repos\sincoABR.API\SincoABR.Data\bin\Debug\netcoreapp2.2\SincoABR.Data.dll
+C:\Users\danielmoresand\source\repos\sincoABR.API\SincoABR.Data\bin\Debug\netcoreapp2.2\SincoABR.Data.pdb
+C:\Users\danielmoresand\source\repos\sincoABR.API\SincoABR.Data\obj\Debug\netcoreapp2.2\SincoABR.Data.csproj.CoreCompileInputs.cache
+C:\Users\danielmoresand\source\repos\sincoABR.API\SincoABR.Data\obj\Debug\netcoreapp2.2\SincoABR.Data.AssemblyInfoInputs.cache
+C:\Users\danielmoresand\source\repos\sincoABR.API\SincoABR.Data\obj\Debug\netcoreapp2.2\SincoABR.Data.AssemblyInfo.cs
+C:\Users\danielmoresand\source\repos\sincoABR.API\SincoABR.Data\obj\Debug\netcoreapp2.2\SincoABR.Data.dll
+C:\Users\danielmoresand\source\repos\sincoABR.API\SincoABR.Data\obj\Debug\netcoreapp2.2\SincoABR.Data.pdb
+C:\Users\danielmoresand\source\repos\sincoABR.API\SincoABR.Data\obj\Debug\netcoreapp2.2\SincoABR.Data.csprojAssemblyReference.cache

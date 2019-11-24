@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\sincoABR\\sincoABR.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.BLL\\SincoABR.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.BLL\\SincoABR.BLL.csproj",
+        "projectName": "SincoABR.BLL",
+        "projectPath": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.BLL\\SincoABR.BLL.csproj",
+        "packagesPath": "C:\\Users\\danielmoresand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danielmoresand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.Data\\SincoABR.Data.csproj": {
+                "projectPath": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.Data\\SincoABR.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.Data\\SincoABR.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.Data\\SincoABR.Data.csproj",
+        "projectName": "SincoABR.Data",
+        "projectPath": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.Data\\SincoABR.Data.csproj",
+        "packagesPath": "C:\\Users\\danielmoresand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danielmoresand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\sincoABR\\sincoABR.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\sincoABR\\sincoABR.API.csproj",
+        "projectName": "sincoABR.API",
+        "projectPath": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\sincoABR\\sincoABR.API.csproj",
+        "packagesPath": "C:\\Users\\danielmoresand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\sincoABR\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danielmoresand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.BLL\\SincoABR.BLL.csproj": {
+                "projectPath": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.BLL\\SincoABR.BLL.csproj"
+              },
+              "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.Data\\SincoABR.Data.csproj": {
+                "projectPath": "C:\\Users\\danielmoresand\\source\\repos\\sincoABR.API\\SincoABR.Data\\SincoABR.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
